@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Planet Money Episode 573： Why Textbook Prices Keep Climbing”
+title:  Planet Money E573： Why Textbook Prices Keep Climbing
 date: 2016-09-21
 ---
 
