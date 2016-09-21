@@ -31,14 +31,14 @@ KESTENBAUM: It was the most expensive book she'd ever seen. Really, she thought,
 
 RAYDUN: So I was actually kind of **irritated**, you know? So I ended up - you know, at some point, though, I just needed the book. You know, we were starting class and homework and all that stuff. So I just went and bought it, put it on a credit card.
 
-- irritate |ˈɪrɪteɪt| ①(annoy)使恼怒 they were irritated by the persistent noise. ②Medicine 刺激 
+    irritate |ˈɪrɪteɪt| ①(annoy)使恼怒 they were irritated by the persistent noise. ②Medicine 刺激 
 
 KESTENBAUM: Kendall is not questioning the value of an education or that in the long run she'll be earning more as a result of this class and the price of that book will be a drop in the bucket. It just seemed like a lot of money for what it was. And something truly strange has been going on in the textbook market. There's this chart that gets **cited** a lot, maybe you've even seen it. It's from a government report on textbook prices and shows the price of new textbooks over the past decade, and it is a very **steep** line. The prices of new textbooks have been going up like crazy, faster than clothing, food, cars, even health care.
 
-- cite |saɪt| ①(quote)引用 ‹word, sentence›; 引述 ‹book, author› ②(give as reason)援引 ‹example, fact, name› ③(mention)例举④Military (commend)嘉奖 ‹member of the armed forces› to cite [somebody] for [something]因某事物嘉奖某人
-⑤Law 传唤 ‹witness› to be cited in divorce proceedings在离婚诉讼中受到传唤
-- steep |stiːp| ①(rising or falling at a sharp angle)陡峭的 ‹hill›; 陡的 ‹slope, street, stairs, roof› a steep climb/descent/drop   陡直的攀升/下降/下落 ②(sharp)急剧的 ‹rise, increase, fall, decline›
-③colloquial (unreasonable)过高的 ‹price, cost, fee› that's a bit steep那有点儿离谱
+    cite |saɪt| ①(quote)引用 ‹word, sentence›; 引述 ‹book, author› ②(give as reason)援引 ‹example, fact, name› ③(mention)例举④Military (commend)嘉奖 ‹member of the armed forces› to cite [somebody] for [something]因某事物嘉奖某人
+    ⑤Law 传唤 ‹witness› to be cited in divorce proceedings在离婚诉讼中受到传唤
+
+    steep |stiːp| ①(rising or falling at a sharp angle)陡峭的 ‹hill›; 陡的 ‹slope, street, stairs, roof› a steep climb/descent/drop   陡直的攀升/下降/下落 ②(sharp)急剧的 ‹rise, increase, fall, decline›③colloquial (unreasonable)过高的 ‹price, cost, fee› that's a bit steep那有点儿离谱
 
 
 (SOUNDBITE OF MUSIC)
