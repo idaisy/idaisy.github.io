@@ -32,7 +32,7 @@ date: 2016-07-19
  - Today, it is completely [derelict]{被抛弃的}. 
  - leaving a mess of [concrete]{混凝土} and [wire]{金属丝} [mesh]{网状物}.
  - But physical modeling as a practice did not [die off]{相继死掉} with the Mississippi [Basin]{盆地，流域} Model. 
- - ERDC has the feel of a Hollywood studio [backlot]{外景场地} —there’s row after row of [hangars]{飞机库} and [warehouses]{仓库}, with engineers zipping between them in trucks and golf carts.
- - 
-eof
+ - ERDC has the feel of a Hollywood studio [backlot]{外景场地} —there’s row after row of [hangars]{飞机库} and [warehouses]{仓库}, with engineers zipping between them in trucks and [golf carts]{高尔夫球车}.
+ - Stanford Gibson, a senior [hydraulic]{水力学的} engineer for the Army Corps, says we need “a bit of scientific [humility]{谦逊}…some of these processes are outside our reach, or at least outside the reach of our generation.” 
+ - We may have the equations to understand what is happening at a given scale, but scaling that understanding up to fully capture the [nuances]{细微差别} of water moving through a river is [incredibly]{难以置信地} complex and difficult.
 
