@@ -6,6 +6,8 @@ date: 2016-09-21
 
 [Transcript原文](http://www.npr.org/sections/money/2016/09/16/494266135/episode-573-why-textbook-prices-keep-climbing)
 
+<iframe src="https://www.npr.org/player/embed/494266135/494267653" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
 Sentence 1: So I was actually kind of **irritated**, you know? 
 
 - irritate /ˈɪrɪteɪt/ 
