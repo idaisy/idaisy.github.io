@@ -8,7 +8,10 @@ date: 2016-09-21
 
 Sentence 1: So I was actually kind of **irritated**, you know? 
 
-- irritate |ˈɪrɪteɪt| (annoy)使恼怒 they were irritated by the persistent noise. 
+- irritate
+- |ˈɪrɪteɪt| 
+- (annoy)使恼怒 
+- they were irritated by the persistent noise. 
 
 Sentence 2: There's this chart that gets **cited** a lot, maybe you've even seen it. 
 
