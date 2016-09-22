@@ -45,4 +45,4 @@ date: 2016-09-21
 
 17. But for students, there is this one big [drawback]{缺点}. 
 
-感谢 [Maskray]{宋方睿} 和 [xiaq]{肖骐} 二位分别提供Javascript和CSS指导。
+感谢 [maskray]{宋方睿} 和 [xiaq]{肖骐} 二位分别提供Javascript和CSS指导。
