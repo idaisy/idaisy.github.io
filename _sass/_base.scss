@@ -212,6 +212,7 @@ pre {
     }
 }
 
+/*
 ruby {
 	font-weight: bold;
 }
@@ -219,4 +220,35 @@ ruby {
 rt {
 	font-weight: 300;
 	font-size: 90%;
+}
+*/
+
+ruby {
+    display:inline-block;
+    text-align:center;
+    padding-top:0.2em;
+    word-wrap:normal;
+    vertical-align: bottom;
+}
+ 
+ruby rp {
+    display:none;
+}
+ 
+ruby rb, ruby rt {
+    display:block;
+    text-align:center;
+    vertical-align:bottom;
+}
+ 
+ruby rt {
+    display: table-header-group;
+    font-size:0.9em;
+    line-height:1.5em;
+}
+ 
+ruby rb {
+    font-weight: bold;
+    display: table-row-group;
+    vertical-align:bottom;
 }
