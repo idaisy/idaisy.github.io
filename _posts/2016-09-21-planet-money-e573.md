@@ -15,15 +15,23 @@ Sentence 1: So I was actually kind of **irritated**, you know?
 
 Sentence 2: There's this chart that gets **cited** a lot, maybe you've even seen it. 
 
-- cite |saɪt| ①(quote)引用 ‹word, sentence›; 引述 ‹book, author› ②(give as reason)援引 ‹example, fact, name› ③(mention)例举
+- cite |saɪt| 
+- (quote)引用 ‹word, sentence›; 引述 ‹book, author› 
+- (give as reason)援引 ‹example, fact, name› 
+- (mention)例举
 
 Sentence 3: It's from a government report on textbook prices and shows the price of new textbooks over the past decade, and it is a very **steep** line. 
 
--  steep |stiːp| ①(rising or falling at a sharp angle)陡峭的 ‹hill›; 陡的 ‹slope, street, stairs, roof› a steep climb/descent/drop   陡直的攀升/下降/下落 ②(sharp)急剧的 ‹rise, increase, fall, decline›③colloquial (unreasonable)过高的 ‹price, cost, fee› 
+-  steep |stiːp| 
+- (rising or falling at a sharp angle)陡峭的 ‹hill›; 陡的 ‹slope, street, stairs, roof› a steep climb/descent/drop   陡直的攀升/下降/下落 
+- (sharp)急剧的 ‹rise, increase, fall, decline›
+- colloquial (unreasonable)过高的 ‹price, cost, fee› 
 
 Sentence 4: In this case, that relationship was **severed**. 
 
-- sever |ˈsevə(r)| B.intransitive verb ①(be cut)被割断 <rope, cord> ②(be broken off)中断 <link, communications>
+- sever |ˈsevə(r)| B.intransitive verb 
+- (be cut)被割断 <rope, cord> 
+- (be broken off)中断 <link, communications>
 
 Sentence 5:  Economists call this the **principal** agent problem. 
 
@@ -39,7 +47,10 @@ Sentence 7: Koch did not want to **weigh in**, so we did something more awkward.
 
 Sentence 7: Let me just start by saying thank you for agreeing to come in and be **grilled** about the price of your textbook.
 
-- grill |grɪl| (transitive verb) ①Culinary 烤炙 ‹meat, fish› ②figurative (warm)使受高温烤炙 ③figurative colloquial (interrogate)盘问 
+- grill |grɪl| (transitive verb) 
+- Culinary 烤炙 ‹meat, fish› 
+- figurative (warm)使受高温烤炙 
+- figurative colloquial (interrogate)盘问 
 
 Sentence 8: I mean, people who get their homes **renovated** talk about what a nightmare it is, and health care is this famously broken market.
 
@@ -51,7 +62,10 @@ Sentence 9: Well, I think it's - whenever you have a principal agent problem, th
 
 Sentence 10: The biggest **expenditure** for students is not the expenditure of money, but it's the expenditure of their time. 
 
-- expenditure |ɪkˈspendɪtʃə(r)| ①(amount spent)开支 expenditure on education/defence 教育/国防经费  ②(in bookkeeping)支出额 ③(act)(of spending)花费 (of materials)消耗  (of resources, energy, time)耗费 
+- expenditure |ɪkˈspendɪtʃə(r)| 
+- (amount spent)开支 expenditure on education/defence 教育/国防经费  
+- (in bookkeeping)支出额 
+- (act)(of spending)花费 (of materials)消耗  (of resources, energy, time)耗费 
 
 
 Sentence 11: So if somebody comes in and says I have a book that's - it's not as good, but it's going to save your students $30, I'm going to say given that they're going to spend 40, 50, 60, 70 hours reading this book over the course of a semester, am I really going to **skimp** on a textbook to get something that's **inferior**? 
@@ -65,15 +79,21 @@ Sentence 12: Jonathan Helliwell is a financial analyst at Panmure Gordon, one of
 
 Sentence 13: People came up with new ways to avoid those higher prices - textbook **rentals**, illegal downloads. 
 
-- rental |ˈrentl| ①(payment)租金 ②(renting)租赁 
+- rental |ˈrentl| 
+- (payment)租金 
+- (renting)租赁 
 
 Sentence 14: One textbook salesman I talked to called it a **spiral** of **destruction**.
 
-- spiral |ˈspaɪərəl| A.adjective 螺旋形的 ‹staircase, motif, horns, structure, spring› B.noun ①(curve, shape, pattern)螺旋形  ②Economics (progressive rise)不断上升 (progressive fall)不断下降 
+- spiral |ˈspaɪərəl| A.adjective 螺旋形的 ‹staircase, motif, horns, structure, spring› B.noun 
+- (curve, shape, pattern)螺旋形  
+- Economics (progressive rise)不断上升 (progressive fall)不断下降 
 - destruction |dɪˈstrʌkʃn| (of object, place)破坏 (of evidence)毁灭  (of power, faith, happiness, love, hope, career)摧毁 (of enemy)消灭 
 
 Sentence 15: It sat **astride** a business which was simple - produce books, and that's what it did. 
-- astride |əˈstraɪd| (preposition) ①(seated)跨在…上 ②(standing)叉开腿站在…上
+- astride |əˈstraɪd| (preposition) 
+- (seated)跨在…上 
+- (standing)叉开腿站在…上
 
 
 Sentence 16: We are **ploughing** huge resources into creating a new set of instructional materials which help students and help instructors and do so at a much lower price than it's ever been seen before.
