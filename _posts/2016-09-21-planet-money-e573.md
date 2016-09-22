@@ -8,7 +8,7 @@ date: 2016-09-21
 
 <iframe src="https://www.npr.org/player/embed/494266135/494267653" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-Sentence 1: So I was actually kind of **irritated**, you know? 
+Sentence 1: So I was actually kind of <ruby>**irritated**<rt>使恼怒</rt></ruby>, you know? 
 
 - irritate /ˈɪrɪteɪt/ 
 - (annoy)使恼怒 
