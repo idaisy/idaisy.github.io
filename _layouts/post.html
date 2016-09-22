@@ -12,6 +12,10 @@ layout: default
     {{ content }}
   </article>
   
+  <script>
+document.body.innerHTML = document.body.innerHTML.replace(/\[(.+?)\]\{(.+?)\}/g, "<ruby><rb>$1</rb><rp>(</rp><rt>$2</rt><rp>)</rp></ruby>")
+  </script>
+
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

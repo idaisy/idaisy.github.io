@@ -12,7 +12,6 @@ github_username:  idaisy
 imageurl: "http://idaisy.github.io/images"
 
 # Build settings
-#markdown: kramdown
-markdown: FuriDown
+markdown: kramdown
 #highlighter: pygments
 highlighter: rouge
