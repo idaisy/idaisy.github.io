@@ -34,4 +34,5 @@ date: 2016-07-19
  - But physical modeling as a practice did not [die off]{相继死掉} with the Mississippi [Basin]{盆地，流域} Model. 
  - ERDC has the feel of a Hollywood studio [backlot]{外景场地} —there’s row after row of [hangars]{飞机库} and [warehouses]{仓库}, with engineers zipping between them in trucks and golf carts.
  - 
+eof
 
