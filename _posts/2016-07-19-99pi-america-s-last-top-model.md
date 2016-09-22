@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  99% Invisible: America's Last Top Model
-date: 2016-09-21
+date: 2016-07-19
 ---
 
  - [原文](http://99percentinvisible.org/episode/americas-last-top-model/)
