@@ -252,3 +252,12 @@ ruby rb {
     display: table-row-group;
     vertical-align:bottom;
 }
+
+ruby > rb > a {
+	    color: $text-color;
+}
+
+ruby > rb > a:visited {
+	    color: $text-color;
+}
+
