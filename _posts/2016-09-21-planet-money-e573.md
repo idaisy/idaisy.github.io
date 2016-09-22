@@ -7,9 +7,11 @@ date: 2016-09-21
 [Transcript原文](http://www.npr.org/sections/money/2016/09/16/494266135/episode-573-why-textbook-prices-keep-climbing)
 
 Sentence 1: So I was actually kind of **irritated**, you know? 
+
 - irritate |ˈɪrɪteɪt| (annoy)使恼怒 they were irritated by the persistent noise. 
 
 Sentence 2: There's this chart that gets **cited** a lot, maybe you've even seen it. 
+
 - cite |saɪt| ①(quote)引用 ‹word, sentence›; 引述 ‹book, author› ②(give as reason)援引 ‹example, fact, name› ③(mention)例举
 
 Sentence 3: It's from a government report on textbook prices and shows the price of new textbooks over the past decade, and it is a very **steep** line. 
@@ -17,6 +19,7 @@ Sentence 3: It's from a government report on textbook prices and shows the price
 -  steep |stiːp| ①(rising or falling at a sharp angle)陡峭的 ‹hill›; 陡的 ‹slope, street, stairs, roof› a steep climb/descent/drop   陡直的攀升/下降/下落 ②(sharp)急剧的 ‹rise, increase, fall, decline›③colloquial (unreasonable)过高的 ‹price, cost, fee› 
 
 Sentence 4: In this case, that relationship was **severed**. 
+
 - sever |ˈsevə(r)| B.intransitive verb ①(be cut)被割断 <rope, cord> ②(be broken off)中断 <link, communications>
 
 Sentence 5:  Economists call this the **principal** agent problem. 
@@ -24,6 +27,7 @@ Sentence 5:  Economists call this the **principal** agent problem.
 - principal |ˈprɪnsəpl| (noun) (employer)委托人 
 
 Sentence 6: They're always talking about, gee, we have this new **coverage** of these new topics. 
+
 - coverage |ˈkʌvərɪdʒ| (in book, dictionary, programme)覆盖  
 
 Sentence 7: Koch did not want to **weigh in**, so we did something more awkward. 
@@ -43,6 +47,7 @@ Sentence 9: Well, I think it's - whenever you have a principal agent problem, th
 - diligence |ˈdɪlɪdʒəns| 勤奋 to have or show diligence in [something]/doing [something] 在某事/做某事方面勤勉
 
 Sentence 10: The biggest **expenditure** for students is not the expenditure of money, but it's the expenditure of their time. 
+
 - expenditure |ɪkˈspendɪtʃə(r)| ①(amount spent)开支 expenditure on education/defence 教育/国防经费  ②(in bookkeeping)支出额 ③(act)(of spending)花费 (of materials)消耗  (of resources, energy, time)耗费 
 
 
@@ -56,6 +61,7 @@ Sentence 12: Jonathan Helliwell is a financial analyst at Panmure Gordon, one of
 - brokerage |ˈbrəʊkərɪdʒ| Countable(company)经纪行
 
 Sentence 13: People came up with new ways to avoid those higher prices - textbook **rentals**, illegal downloads. 
+
 - rental |ˈrentl| ①(payment)租金 ②(renting)租赁 
 
 Sentence 14: One textbook salesman I talked to called it a **spiral** of **destruction**.
@@ -72,5 +78,6 @@ Sentence 16: We are **ploughing** huge resources into creating a new set of inst
 - plough |plaʊ| (transitive verb) (invest) to plough money into [something] 
 
 Sentence 17: But for students, there is this one big **drawback**. 
+
 - drawback 缺点
 
