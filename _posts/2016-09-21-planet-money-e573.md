@@ -44,3 +44,5 @@ date: 2016-09-21
 16. We are [ploughing]{投资，耕作} huge resources into creating a new set of instructional materials which help students and help instructors and do so at a much lower price than it's ever been seen before.
 
 17. But for students, there is this one big [drawback]{缺点}. 
+
+[感谢]{Maskray}!
