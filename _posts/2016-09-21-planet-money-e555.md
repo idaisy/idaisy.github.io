@@ -14,7 +14,7 @@ date: 2016-09-21
 
 - which is not [homogenized]{使均质} but [pasteurized]{对…进行巴氏消毒} and is whole.
 
-- I'm pretty [lactose] {乳糖}[intolerant]{过敏的}, so I don't drink much milk.
+- I'm pretty [lactose]{乳糖} [intolerant]{过敏的}, so I don't drink much milk.
 
 - So you're [disqualified]{取消…的资格} from this conversation as being lactose intolerant.
 
@@ -69,6 +69,8 @@ date: 2016-09-21
  - I will be more [fulsome]{过分恭维的} in my answer and make sure I pay [sufficient]{充足的} attention to the idea of the cold chain.
  
  - And I'm willing to [concede]{退让} that I may sometimes [overestimate]{高估} its power. 
+
+ARGUMENT: 超市获利阴谋论PK冷链成本节约论
  
  
  
