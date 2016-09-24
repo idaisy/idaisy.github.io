@@ -60,7 +60,7 @@ date: 2016-09-07
 
 - So to [recap]{总结}, giving farmers money works. 
 
-- [handing our]{分发} cash
+- [handing out]{分发} cash
 
 - And as much as I begged Chris to [lord]{逞威风} this result over Dean - to say, in your face, man - they would not [comply]{服从}.
 
