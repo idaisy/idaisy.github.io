@@ -10,6 +10,7 @@ date: 2012-04-17
 
 本集讲了从1987年到现在一直在对公众提供服务的UNIX服务器 [SDF.org](http://sdf.org)。scateu有[一篇博客](http://scateu.me/2016/09/25/sdf-dot-org.html)来详细讲这件事。和水木清华、北大未名等BBS很相似。
 
+ - title:  In Noisy Digital [Era]{时代}, 'Elegant' Internet Still [Thrives]{繁荣}
  - [Audie Cornish]{主持人名字}. [Melissa Block]{主持人名字}. 
  - ... but using computers to share information and meet friends [predates]{日期上早于} the 21st century.
  - From New Hampshire Public Radio, [Todd Bookman]{人名} ...
