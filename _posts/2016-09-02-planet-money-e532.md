@@ -13,7 +13,7 @@ date: 2016-09-02
 
 - I [tracked down]{追踪} one of the [founders]{创建者}.
 
-- the creation of the internet itself was a [collaboration]合作成果. 
+- the creation of the internet itself was a [collaboration]{合作成果}. 
 
 - Then they could send stuff [back and forth]{来回的}. 
 
@@ -62,7 +62,7 @@ date: 2016-09-02
 
 - I was [tempted]{引诱}.
 
-- a [land rush]{土地暴动]
+- a [land rush]{土地暴动}
 
 - huge [swaths]{一长条地} of land
 
