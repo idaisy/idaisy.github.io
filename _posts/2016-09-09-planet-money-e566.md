@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Planet Money Episode 566： The Zoo Economy
+title: Planet Money Episode 566： The Zoo Economy
 date: 2016-09-09
 ---
 
