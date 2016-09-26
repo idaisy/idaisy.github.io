@@ -1,6 +1,6 @@
 ---
 layout: post
-title： Planet Money Episode 723： The Risk Farmers
+title： "Planet Money Episode 723: The Risk Farmers"
 date: 2016-09-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planet Money Episode 724： Cat Scam
+title: "Planet Money Episode 724: Cat Scam"
 date: 2016-09-14
 ---
 
