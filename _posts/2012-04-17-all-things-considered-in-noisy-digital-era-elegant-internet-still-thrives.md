@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Things Considered:In Noisy Digital Era, 'Elegant' Internet Still Thrives"
+title:  "All Things Considered: In Noisy Digital Era, 'Elegant' Internet Still Thrives"
 date: 2012-04-17
 ---
 
