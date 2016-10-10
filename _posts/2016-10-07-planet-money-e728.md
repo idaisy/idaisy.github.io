@@ -8,6 +8,7 @@ date: 2016-10-07
 
 <iframe src="https://www.npr.org/player/embed/497084491/497127671" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
+*简介在最下方*
 
 - And this has come out now and this has [blown up]{爆炸} into a giant banking scandal.
 
@@ -118,12 +119,20 @@ date: 2016-10-07
 - [unrealistic]{不切实际的} 
 
 
+## Wells Fargo造假丑闻
+
 美国第三大银行Wells Fargo陷入丑闻被指造假，在客户或许并不知情的情况下开设了超过200万个账户，涉及活期储蓄账户、信用卡、贷款。
+
 Wells Fargo应对该丑闻的措施是开除了超5000个基层员工。
+
 美国消费者金融保护局（CFPB）向其开出了该机构史上最大的一笔罚单1.85亿美元。
+
 Wells Fargo的CEO-John Stumpf的座右铭"eight is great"
+
 过高的销售指标压力成为员工们造假的一大原因，员工每天需要拨打上百个电话。
+
 前职员Ashley的小故事，旧金山克罗克分行被抢，嫌犯被抓，在银行大厅满是警察吵闹混乱的情况下，其主管依旧要求她不停的打销售电话。
+
 管理层对底下员工的不道德甚至违法行为睁一只眼闭一只眼。
 
  
