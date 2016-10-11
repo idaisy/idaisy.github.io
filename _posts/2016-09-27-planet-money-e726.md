@@ -72,7 +72,7 @@ date: 2016-09-27
 
 - It's both so [hokey]{矫揉造作的} and yet her sort of [smirk]{得意地笑} as she said it, there was a kind of pride of [authorship]{作者}.
 
-- This was called [[trickle-down economics]{涓滴效应}](https://en.wikipedia.org/wiki/Trickle-down_economics) by [critics]{评论家}. 
+- This was called [trickle-down economics]{涓滴效应}[里根经济学](https://en.wikipedia.org/wiki/Trickle-down_economics) by [critics]{评论家}. 
 
 - And they will hire [landscapers]{庭院设计家} and architects.
 
@@ -105,16 +105,26 @@ date: 2016-09-27
 - When we grow older, I will [reminisce]{缅怀往事}.
 
 
-##希拉里VS川普首场电视辩论议题讨论
+## 希拉里VS川普首场电视辩论议题讨论
 
 9个混淆不清的经济概念
+
 1.自我吹嘘。
+
 2.附带权益。私募股权公司的经理利用他人的资金进行投资，在其获取收益的部分提成。这部分收入不计入固定收入税，而是缴纳更低税率的投资税。川普和希拉里都希望去除此漏洞，赋税平等。
+
 3.操纵货币。指控中国让货币贬值，使得中国的商品在美国更有竞争力。然而事实相反，中国在努力提高人民币价值。
+
 4.改变制造业。工厂/公司流出，寻求更低的人力成本，美国国内工作减少。但是，重点在于制造业就业岗位在美国仅占9%，更多的岗位在服务业，政客们在辩论中避而不谈（政治游戏不是那么简单的:-D）
+
 5.NAFTA北美自由贸易协定。川普抨击其为史上最糟糕的协定。NPR嘉宾认为该说法有夸大之嫌。
+
 NAFTA消除了与加拿大和墨西哥之间的保护性关税，降低了双方的商品成本，更利于消费者。墨西哥的低人力成本使其商品更具价格方面竞争优势，最终导致美国国内就业减少。
+
 6.TPP跨太平洋伙伴关系协定。辩论中二位将美国经济衰退归咎于TPP&中国，将TPP与中国混为一谈，但中国并未加入TPP。
+
 7.辩论高潮，希拉里绝妙反击"Trumped-up trickle-down"。川普计划通过税收优惠达到涓滴效应。
+
 8.高度评价自己。TRUMP: I'm extremely underleveraged.
+
 9.川普指控联邦储备系统主席Janet Yellen
