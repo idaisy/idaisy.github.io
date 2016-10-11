@@ -72,7 +72,7 @@ date: 2016-09-27
 
 - It's both so [hokey]{矫揉造作的} and yet her sort of [smirk]{得意地笑} as she said it, there was a kind of pride of [authorship]{作者}.
 
-- This was called [trickle-down economics]{涓滴效应}[里根经济学](https://en.wikipedia.org/wiki/Trickle-down_economics) by [critics]{评论家}. 
+- This was called [trickle-down economics]{涓滴效应}[参看：里根经济学](https://en.wikipedia.org/wiki/Trickle-down_economics) by [critics]{评论家}. 
 
 - And they will hire [landscapers]{庭院设计家} and architects.
 
