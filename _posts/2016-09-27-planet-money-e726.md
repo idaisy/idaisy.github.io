@@ -8,7 +8,7 @@ date: 2016-09-27
 
 <iframe src="https://www.npr.org/player/embed/495693013/495719016" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-*简介在最下方*
+
 
 - And everybody has to look them up online like OMB and TPP and [repatriation]{调回本国（of money）} and [offshore]{在境外} profits - and the [bragging]{吹嘘} one.
 

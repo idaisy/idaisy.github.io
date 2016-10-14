@@ -100,7 +100,7 @@ date: 2016-09-30
 - I'm going to [posit]{假设} here
 
 
-##经济相关的QUIZ
+## 经济相关的QUIZ
 
 Q：金钱是否可以买来幸福？ 
 
