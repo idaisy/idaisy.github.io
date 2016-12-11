@@ -4,7 +4,7 @@ title: Planet Money
 permalink: /PlanetMoney/
 ---
 
-## Planet Money
+Planet Money 是 NPR 旗下的一档日常经济学相关的Podcast. 非常有趣味.
 
 <div class="home">
 
