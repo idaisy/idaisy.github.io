@@ -2,6 +2,8 @@
 layout: post
 title: "Planet Money Episode 532: The Wild West Of The Internet"
 date: 2016-09-02
+tags:
+ - Planet Money
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=492278709)

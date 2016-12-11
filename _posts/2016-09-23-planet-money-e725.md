@@ -2,6 +2,8 @@
 layout: post
 title: "Planet Money Episode 725: Trade Show"
 date: 2016-09-23
+tags:
+ - Planet Money
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=495226796)

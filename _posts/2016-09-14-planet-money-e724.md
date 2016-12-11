@@ -2,6 +2,8 @@
 layout: post
 title: "Planet Money Episode 724: Cat Scam"
 date: 2016-09-14
+tags:
+ - Planet Money
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=493810206)

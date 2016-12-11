@@ -2,6 +2,7 @@
 layout: post
 title:  "All Things Considered: In Noisy Digital Era, 'Elegant' Internet Still Thrives"
 date: 2012-04-17
+author: scateu
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=150817325)

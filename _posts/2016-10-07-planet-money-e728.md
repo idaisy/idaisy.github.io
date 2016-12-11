@@ -2,6 +2,8 @@
 layout: post
 title: "Planet Money Episode 728: The Wells Fargo Hustle"
 date: 2016-10-07
+tags:
+ - Planet Money
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=497084491)

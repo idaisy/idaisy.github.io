@@ -2,6 +2,8 @@
 layout: post
 title: "Planet Money Episode 727: You Asked For It, Again"
 date: 2016-09-30
+tags:
+ - Planet Money
 ---
 
 [Transcript原文](http://www.npr.org/templates/transcript/transcript.php?storyId=496136504)
