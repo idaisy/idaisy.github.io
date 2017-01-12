@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "radiolab: lose lose"
+title: "RadioLab: lose lose"
 date: 2017-01-12
 author: scateu
 ---
@@ -8,7 +8,7 @@ author: scateu
 
 <iframe width="600" height="130" frameborder="0" scrolling="no" src="https://www.wnyc.org/widgets/ondemand_player/radiolab/#file=%2Faudio%2Fxspf%2F726626%2F"></iframe>
 
- - Youtube: [Badminton Women's Doubles - Korea v China | London 2012 Olympics](https://www.youtube.com/watch?v=7mq1ioqiWEo)
+ - Youtube: [Badminton Women's Doubles - Korea v China - London 2012 Olympics](https://www.youtube.com/watch?v=7mq1ioqiWEo)
  - [Radiolab 原链接](http://www.radiolab.org/story/lose-lose/)
 
 本集讲的是2012年伦敦奥运会期间，女双小组赛最后一轮，于洋/王晓理与韩国选手互相比谁先输球。以免在接下来的比赛中遭遇中国队的另一组选手。
