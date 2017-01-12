@@ -21,4 +21,6 @@ author: scateu
 ## 生词表
 
  - [disqualified]{被取消资格的}
-
+ - [referee]{裁判}
+ - loses the match by winning it
+ - Tonight, it's not sport, it was [disgrace]{丢脸}.
