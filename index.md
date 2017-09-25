@@ -2,7 +2,7 @@
 layout: default
 ---
 
-翻译引进国外创新创业、经济相关的 <ruby><rb><a href="https://en.wikipedia.org/wiki/Podcast"> 播客 </a> </rb><rp>(</rp><rt>Podcast</rt><rp>)</rp></ruby>。
+翻译引进国外创新创业、经济相关的 <ruby><rb><a href="https://en.wikipedia.org/wiki/Podcast"> Podcast </a> </rb><rp>(</rp><rt>播客</rt><rp>)</rp></ruby>。
 
 - 通过提供最**少**但最**必要**的背景及语言信息，从而使得大家能够克服语言恐惧，听到最原汁原味的国外的音频节目。
 - 目前主要涵盖的节目范围:
