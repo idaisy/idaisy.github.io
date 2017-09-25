@@ -2,11 +2,11 @@
 layout: default
 ---
 
-- 翻译引进国外创新创业、经济相关的播客(Podcast)。
-- 目标不是向听众提供完整的字幕，而是为听众提供必要的背景及语言信息，从而使得他们能够听到原汁原味的国外的音频节目。
+- 翻译引进国外创新创业、经济相关的 <ruby><rb><a href="https://en.wikipedia.org/wiki/Podcast"> 播客 </a> </rb><rp>(</rp><rt>Podcast</rt><rp>)</rp></ruby>。
+- 通过提供最**少**但最**必要**的背景及语言信息，从而使得大家能够克服语言恐惧，听到最原汁原味的国外的音频节目。
 - 目前主要涵盖的节目范围:
-	- Planet Money, NPR旗下的一档关于经济常识的节目
-	-	How I Built This，NPR旗下的一档关于创业故事的节目
+	- Planet Money: NPR旗下的一档关于经济常识的节目
+	-	How I Built This: NPR旗下的一档关于创业故事的节目
 	-	99% Invisible
 	-	Radiolab
 
