@@ -4,6 +4,8 @@ title: How I Built This
 permalink: /Built/
 ---
 
+![](http://media.npr.org/assets/img/2016/08/31/hibt_podcast_tile_sq-8d9498b292dc7a759bf4b7fc776dfe0e4c09da68-s300-c85.png)
+
 How I Built This 是 NPR 旗下的一档关于创业故事的节目
 
 <div class="home">

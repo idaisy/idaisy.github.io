@@ -3,6 +3,7 @@ layout: default
 title: Planet Money
 permalink: /PlanetMoney/
 ---
+![](http://media.npr.org/assets/img/2015/12/18/planetmoney_sq-c7d1c6f957f3b7f701f8e1d5546695cebd523720-s300-c85.jpg)
 
 Planet Money 是 NPR 旗下的一档日常经济学相关的Podcast. 非常有趣味.
 
