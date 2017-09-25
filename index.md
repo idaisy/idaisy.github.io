@@ -2,12 +2,15 @@
 layout: default
 ---
 
-在这里, 我会定期的选取一些国外好的Podcast, 并把里面遇到的生词标注好, 方便大家做预习和听后校对.
-
-目前主要在更新[Planet Money](/PlanetMoney/). 如果你也想加入进来, 欢迎邮件联系我.
+- 翻译引进国外创新创业、经济相关的播客(Podcast)。
+- 目标不是向听众提供完整的字幕，而是为听众提供必要的背景及语言信息，从而使得他们能够听到原汁原味的国外的音频节目。
+- 目前主要涵盖的节目范围:
+	- Planet Money, NPR旗下的一档关于经济常识的节目
+	-	How I Built This，NPR旗下的一档关于创业故事的节目
+	-	99% Invisible
+	-	Radiolab
 
 本站可以通过[RSS订阅]({{ "/feed.xml" | prepend: site.baseurl }}).
-
 
 <div class="home">
 
