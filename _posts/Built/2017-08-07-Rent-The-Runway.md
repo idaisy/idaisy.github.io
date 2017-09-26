@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Built This: Rent The Runway-更新中"
+title: "How I Built This: Rent The Runway"
 date: 2017-08-07
 author: Daisy
 tags:
@@ -9,29 +9,37 @@ tags:
 
 <iframe src="https://www.npr.org/player/embed/541686055/541701331" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-[Rent The Runway](https://www.renttherunway.com)
+[Rent The Runway](https://www.renttherunway.com):将T台时装租回家，打造梦幻衣柜，无限期租用，按月支付费用。
+
+> Runway: a platform along which models walk in a fashion show 
+
+![](https://p6.zdassets.com/hc/settings_assets/802352/200164537/i2JTgBuVvB8sglVoZmBzNA-logo.png)
+
+Jennifer Hyman和Jennifer Fleiss，两位女士想要拥有最新款式的时装却支付不起高昂的价格，决定通过Rent The Runway的方式将其实现。
+
+Rent The Runway，美国如今最受欢迎的时尚公司之一，成长速度令人惊叹，年收入上亿，有着1200多名员工。虽然它的核心产品是名牌服装，你会惊奇地发现仅有10名员工在其时尚部门工作，其他大部分员工都在技术部门工作，它本质上是一家科技公司。
+顾客可以在网上或者APP租用时装。相较时装昂贵的价格，顾客只需要支付一小部分金额，然后就可以穿的美美的渡过一个愉快的夜晚，第二天整休后再将衣服邮寄回。
+
+[Business Model]{商业模式}:[Access Economy](https://en.wikipedia.org/wiki/Access_economy) --提供商品或服务的暂时租赁取代永久售卖。同样商业模式的企业有Zipcar, Netflix, Airbnb。
+
+![](https://www.forbes.com/special-report/2013/disruptors/images/jennifer-hyman_jennifer-fleiss.jpg)
+
+<details markdown="1"><summary> 附: 全文听写(点击展开)</summary>
 
 - Enter Your Dream Closet. -- Rent clothing and accessories for a date on your calendar.
 - Experience a Rotating Closet. -- Unlimited rentals for work, weekends and beyond. 
 One monthly price.
-
-![](https://p6.zdassets.com/hc/settings_assets/802352/200164537/i2JTgBuVvB8sglVoZmBzNA-logo.png)
-
-
-
-<details markdown="1"><summary> 附: 全文听写(点击展开)</summary>
 
 the famous fashion designer
 how two women wanted high-fashion couldn't afford the price tag, decided to make it possible to rent the runway
 
 one of hottest fashion companies in the US, growing like crazy  it's doing more than 100 million dollars a year  Revenue  it hires 1200 employees  given that it's core product is designer dresses   you might be surprised to discover as i was, there just ten of it's employees work in the fashion department  most of the rest they work for technology company   because that's actually what rent the runway is.   the way works is  you go online  go to the app and you rent the dress (might caused thousands of dollars to buy) you only pay a small fraction of that and you look fabulous for one night  mail it back
 
-Zipcar, Netflix, Airbnb
-
 The access economy is a business model where goods and services are traded on the basis of access rather than ownership: it refers to renting things temporarily rather than selling them permanently. 
 
 core founder Jennifer Hyman and Jennifer Fleiss came up this idea when they were met at Harvard Business School in 2008 [ after she watched her sister overspend on a new dress rather than wear an old one to a party.]
 
+2008年Jennifer Hyman和Jennifer Fleiss在哈佛商学院构想出这个创业项目。
 challenges  sexism harassment
 
 graduates college  Jenn Hyman  job Junior analyst for the hotel company Starwood    about a year 22  [specious  we had enter the experience economy--Pine and Gilmore argue that businesses must orchestrate memorable events for their customers, and that memory itself becomes the product — the "experience".] People were getting married later and starting to value experience like travel  over owning things
