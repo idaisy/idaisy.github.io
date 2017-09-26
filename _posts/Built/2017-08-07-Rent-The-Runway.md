@@ -11,9 +11,11 @@ tags:
 
 [Rent The Runway](https://www.renttherunway.com):将T台时装租回家，打造梦幻衣柜，无限期租用，按月支付费用。
 
-> Runway: a platform along which models walk in a fashion show 
+> [Runway]{T台时装}: a platform along which models walk in a fashion show 
 
-![](https://p6.zdassets.com/hc/settings_assets/802352/200164537/i2JTgBuVvB8sglVoZmBzNA-logo.png)
+<center>
+![Logo](https://p6.zdassets.com/hc/settings_assets/802352/200164537/i2JTgBuVvB8sglVoZmBzNA-logo.png)
+</center>
 
 Jennifer Hyman和Jennifer Fleiss，两位女士想要拥有最新款式的时装却支付不起高昂的价格，决定通过Rent The Runway的方式将其实现。
 
@@ -22,7 +24,9 @@ Rent The Runway，美国如今最受欢迎的时尚公司之一，成长速度�
 
 **Business Model**: [Access Economy](https://en.wikipedia.org/wiki/Access_economy) --提供商品或服务的暂时租赁取代永久售卖。同样商业模式的企业有Zipcar, Netflix, Airbnb。
 
-![](https://www.forbes.com/special-report/2013/disruptors/images/jennifer-hyman_jennifer-fleiss.jpg)
+<center>
+![Forbes:Jennifer](https://www.forbes.com/special-report/2013/disruptors/images/jennifer-hyman_jennifer-fleiss.jpg)
+</center>
 
 <details markdown="1"><summary> 附: 全文听写(点击展开)</summary>
 
