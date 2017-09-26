@@ -20,7 +20,7 @@ Jennifer Hyman和Jennifer Fleiss，两位女士想要拥有最新款式的时装
 Rent The Runway，美国如今最受欢迎的时尚公司之一，成长速度令人惊叹，年收入上亿，有着1200多名员工。虽然它的核心产品是名牌服装，你会惊奇地发现仅有10名员工在其时尚部门工作，其他大部分员工都在技术部门工作，它本质上是一家科技公司。
 顾客可以在网上或者APP租用时装。相较时装昂贵的价格，顾客只需要支付一小部分金额，然后就可以穿的美美的渡过一个愉快的夜晚，第二天整休后再将衣服邮寄回。
 
-[Business Model]{商业模式}:[Access Economy](https://en.wikipedia.org/wiki/Access_economy) --提供商品或服务的暂时租赁取代永久售卖。同样商业模式的企业有Zipcar, Netflix, Airbnb。
+**Business Model**: [Access Economy](https://en.wikipedia.org/wiki/Access_economy) --提供商品或服务的暂时租赁取代永久售卖。同样商业模式的企业有Zipcar, Netflix, Airbnb。
 
 ![](https://www.forbes.com/special-report/2013/disruptors/images/jennifer-hyman_jennifer-fleiss.jpg)
 
