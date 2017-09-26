@@ -14,8 +14,6 @@ tags:
 > [Runway]{T台时装}: a platform along which models walk in a fashion show 
 
 ![Logo](https://p6.zdassets.com/hc/settings_assets/802352/200164537/i2JTgBuVvB8sglVoZmBzNA-logo.png){:.center-image}
-*Logo: Rent The Runway*
-
 
 Jennifer Hyman和Jennifer Fleiss，两位女士想要拥有最新款式的时装却支付不起高昂的价格，决定通过Rent The Runway的方式将其实现。
 
